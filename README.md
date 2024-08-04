@@ -22,6 +22,7 @@ ATZD01 contains numerous challenging sample images, such as those taken in backl
 
 Additionally, ATZD01 includes samples captured from multiple angles, with a significant number of leaf underside samples, as shown below:
 
+![screen shot on a significant number of leaf underside samples(2)](https://github.com/user-attachments/assets/e1025126-df79-4c8b-8fd8-3ae1e7974348)
 
 Annotations were manually created using the Labelimg software and are provided in the standard YOLO format. In our study, we randomly divided the dataset into training, testing, and validation sets with a ratio of 8:1:1. We also encourage future researchers to partition the dataset based on their specific task requirements.
 
