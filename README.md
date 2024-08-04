@@ -11,6 +11,7 @@ ATZD01 was collected by Professor ZhiYong Tao's team at Liaoning Technical Unive
 9.	Cnidocampa Flavescens Walker Infestation: 1,381 samples
 10.	Hyphantria Cunea Infestation: 671 samples
 11.	Chilocorus Rubidus Hope: 474 samples
+
 Notably, in addition to traditional pests and diseases, we also include one beneficial insect species, Chilocorus Rubidus Hope, which we believe provides valuable insights for orchard managers and growers to better understand the overall pest and disease situation in apricot orchards. Specific category images are shown below.
 ATZD01 contains numerous challenging sample images, such as those taken in backlight conditions, direct sunlight, complex backgrounds, multiple samples, and low-light scenarios, as shown below:
 Additionally, ATZD01 includes samples captured from multiple angles, with a significant number of leaf underside samples, as shown below:
