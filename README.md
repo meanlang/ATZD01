@@ -1,18 +1,18 @@
 # ATZD01
 ATZD01 was collected by Professor ZhiYong Tao's team at Liaoning Technical University. The dataset contains 20,272 samples across 6,055 images, divided into 11 categories:
-1.	Mite Infestation: 4,325 samples
-2.	Bacterial Shot Hole: 9,023 samples
-3.	Gummosis: 1,170 samples
-4.	Scabbed Disease: 1,753 samples
-5.	Brown Rot: 480 samples
-6.	Anthracnose: 530 samples
-7.	Carposina Sasakii Matsumura Infestation: 135 samples
-8.	Aromia Bungii Infestation: 330 samples
-9.	Cnidocampa Flavescens Walker Infestation: 1,381 samples
-10.	Hyphantria Cunea Infestation: 671 samples
-11.	Chilocorus Rubidus Hope: 474 samples
+1.	**Mite Infestation**: 4,325 samples
+2.	**Bacterial Shot Hole**: 9,023 samples
+3.	**Gummosis**: 1,170 samples
+4.	**Scabbed Disease**: 1,753 samples
+5.	**Brown Rot**: 480 samples
+6.	**Anthracnose**: 530 samples
+7.	**Carposina Sasakii Matsumura Infestation**: 135 samples
+8.	**Aromia Bungii Infestation**: 330 samples
+9.	**Cnidocampa Flavescens Walker Infestation**: 1,381 samples
+10.	**Hyphantria Cunea Infestation**: 671 samples
+11.	**Chilocorus Rubidus Hope**: 474 samples
 
-Notably, in addition to traditional pests and diseases, we also include one beneficial insect species, Chilocorus Rubidus Hope, which we believe provides valuable insights for orchard managers and growers to better understand the overall pest and disease situation in apricot orchards. Specific category images are shown below.
+Notably, in addition to traditional pests and diseases, we also include one beneficial insect species, **Chilocorus Rubidus Hope**, which we believe provides valuable insights for orchard managers and growers to better understand the overall pest and disease situation in apricot orchards. Specific category images are shown below.
 
 ![screen shot on traditional pests and diseases(2)](https://github.com/user-attachments/assets/11b0414b-17ae-4c3d-9995-c516e811ef8c)
 
