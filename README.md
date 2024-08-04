@@ -21,6 +21,8 @@ ATZD01 contains numerous challenging sample images, such as those taken in backl
 ![screen shot on contains numerous challenging sample images(2)](https://github.com/user-attachments/assets/a2e40f8c-3d71-4397-a166-81ee0f77e5cb)
 
 Additionally, ATZD01 includes samples captured from multiple angles, with a significant number of leaf underside samples, as shown below:
+
+
 Annotations were manually created using the Labelimg software and are provided in the standard YOLO format. In our study, we randomly divided the dataset into training, testing, and validation sets with a ratio of 8:1:1. We also encourage future researchers to partition the dataset based on their specific task requirements.
 
 Our images contain some annotation information within the file names. The naming convention for the image files is "Apricot_Weather_CaptureDevice_Number." For example, "Apricot_Cloudy day_Canon EOS 6D_2452" indicates that the image of the apricot tree was taken on a cloudy day using a Canon EOS 6D camera, and the image number is 2452. We have adopted this approach to encourage future researchers to re-annotate or modify the annotation information to further advance the field of apricot tree pest and disease detection.
