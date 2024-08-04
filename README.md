@@ -13,8 +13,12 @@ ATZD01 was collected by Professor ZhiYong Tao's team at Liaoning Technical Unive
 11.	Chilocorus Rubidus Hope: 474 samples
 
 Notably, in addition to traditional pests and diseases, we also include one beneficial insect species, Chilocorus Rubidus Hope, which we believe provides valuable insights for orchard managers and growers to better understand the overall pest and disease situation in apricot orchards. Specific category images are shown below.
+
 ![screen shot on traditional pests and diseases(2)](https://github.com/user-attachments/assets/11b0414b-17ae-4c3d-9995-c516e811ef8c)
+
 ATZD01 contains numerous challenging sample images, such as those taken in backlight conditions, direct sunlight, complex backgrounds, multiple samples, and low-light scenarios, as shown below:
+
+![screen shot on contains numerous challenging sample images(2)](https://github.com/user-attachments/assets/a2e40f8c-3d71-4397-a166-81ee0f77e5cb)
 
 Additionally, ATZD01 includes samples captured from multiple angles, with a significant number of leaf underside samples, as shown below:
 Annotations were manually created using the Labelimg software and are provided in the standard YOLO format. In our study, we randomly divided the dataset into training, testing, and validation sets with a ratio of 8:1:1. We also encourage future researchers to partition the dataset based on their specific task requirements.
