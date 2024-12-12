@@ -32,4 +32,5 @@ The images in ATZD01 come in various resolutions, all in high-definition JPG for
 
 Researchers wishing to use this dataset should download the authorization form from the link below and obtain the necessary permissions.
 # Dataset download link
-To be made available shortly after the paper is accepted.
+Obtain the decompression password for the ATZD01 compressed file through application and authorization first.
+Dataset download link: https://pan.baidu.com/s/13Hf8jFQLaQYeqUcPR0RIQA    0wm3 
