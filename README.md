@@ -38,3 +38,4 @@ We provide the code for the improved part based on YOLOv8n, which you can run ba
 # Dataset download link
 Obtain the decompression password for the ATZD01 compressed file through application and authorization first.
 Dataset download link: https://pan.baidu.com/s/13Hf8jFQLaQYeqUcPR0RIQA    0wm3 
+and onedrive as: https://1drv.ms/f/c/0d18a843b00158fe/Eujp0FcEBl5KnWL6LfLaz0ABQyI9RbMZz4mORg0N1w2aYA?e=YQVcWS
